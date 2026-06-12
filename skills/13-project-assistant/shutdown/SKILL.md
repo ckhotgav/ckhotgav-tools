@@ -25,6 +25,13 @@ description: 收工 — git push、記錄筆記、完整性檢查。觸發關鍵
 - **開發日誌**：詢問是否也要記錄到對應專案的開發記錄資料夾
 - **Clippings 整理**：詢問是否要一併整理 Clippings 中的網頁剪輯
 
+## 步驟三.5：檢查自動整理狀態
+
+如果存在 `D:\Obsidian\_整理記錄.md`：
+1. 讀取 `last_organize`、`enabled`、`interval_days`
+2. 若 `enabled = true` 且距上次整理超過 `interval_days` 天：
+   - 提醒：「⚠️ 已超過 N 天未整理知識庫，收工前要跑一次整理嗎？」
+
 ## 步驟四：備份到 GitHub
 
 1. 執行 `git add .`
