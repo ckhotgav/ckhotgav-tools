@@ -85,7 +85,7 @@ curl -T index.html ftp://你的帳號:你的密碼@你的FTP主機/public_html/i
 請幫我寫一份 index.html，內容是「點哥AI全能工具箱」的介紹頁面，
 風格是深色科技風，包含：
 1. 點哥AI全能工具箱是什麼的簡介
-2. GitHub 連結 https://github.com/ckhotgav-git/ckhotgav-tools
+2. GitHub 連結 https://github.com/ckhotgav/ckhotgav-tools
 3. 用白話解釋什麼是「網站主機」和「FTP」
 4. 一段醒目的免費主機提醒：
    - 僅供練習，正式上線需購買付費主機

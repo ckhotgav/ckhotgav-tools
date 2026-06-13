@@ -15,7 +15,7 @@
 複製這行貼給你的 AI 助理：
 
 ```
-這是點哥AI全能工具箱 https://github.com/ckhotgav-git/ckhotgav-tools
+這是點哥AI全能工具箱 https://github.com/ckhotgav/ckhotgav-tools
 請讀取 repo 內容，列出所有可用的技能，問我要安裝哪些，然後自動幫我安裝。
 ```
 

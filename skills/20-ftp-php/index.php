@@ -61,7 +61,7 @@ if ($result && $result->num_rows > 0) {
         <h2>📖 關於點哥</h2>
         <p><strong>點哥AI全能工具箱 (ckhotgav-tools)</strong> 幫助完全不懂程式的新手，快速在 AI 編輯器上建立開發環境。</p>
         <p>包含 20 項技能：基礎環境、NotebookLM、GitHub、Netlify、資料庫、本地 AI、知識管理⋯⋯</p>
-        <p>GitHub：<a href="https://github.com/ckhotgav-git/ckhotgav-tools" target="_blank">https://github.com/ckhotgav-git/ckhotgav-tools</a></p>
+        <p>GitHub：<a href="https://github.com/ckhotgav/ckhotgav-tools" target="_blank">https://github.com/ckhotgav/ckhotgav-tools</a></p>
     </div>
 
     <div class="section">
