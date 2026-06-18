@@ -17,5 +17,3 @@
 
 - GitHub: https://github.com/ckhotgav
 - Facebook: https://facebook.com/jshpapa
-- Email: thinkclue@gmail.com
-- License: MIT
