@@ -12,7 +12,7 @@ AI 編輯器 (Antigravity/OpenCode) 新手全能懶人包。
 - [x] 已完成：Obsidian Vault 統一至 D:\Obsidian（C→D 搬遷與資料整合）
 - [x] 已完成：MCP 設定路徑修正指向 D:\Obsidian
 - [x] 已完成：技能 11 安裝流程確認（AI 詢問使用者路徑，非硬編碼）
-- [x] 已完成：完善「啟動專案」功能（支援自設其他模板、安全型 .gitignore 規劃、新增「專案初始化」關鍵字），並移除 MIT 授權與個人 Email 聯絡資訊
+- [x] 已完成：完善「啟動專案」功能（支援自設其他模板、安全型 .gitignore 規劃、對齊並補齊 6 個對話關鍵字），並移除 MIT 授權與個人 Email 聯絡資訊
 
 ## 技術
 - OpenCode Skills（SKILL.md）

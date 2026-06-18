@@ -1,6 +1,6 @@
 ---
 name: project-init
-description: 自動專案助理 — 啟動/初始化專案。建立包含 PROJECT.md 與 AGENTS.md 在內的標準專案結構與 Git 初始化。支援關鍵字：「啟動專案」、「專案啟動」、「開啟專案」、「專案初始化」。
+description: 自動專案助理 — 啟動/初始化專案。建立包含 PROJECT.md 與 AGENTS.md 在內的標準專案結構與 Git 初始化。支援關鍵字：「啟動專案」、「專案啟動」、「開啟專案」、「專案初始化」、「初始化專案」、「建立專案」。
 ---
 
 # project-init — 啟動專案 / 初始化專案
