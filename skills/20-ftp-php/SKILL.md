@@ -74,9 +74,7 @@ curl -T index.php ftp://你的帳號:你的密碼@你的FTP主機/public_html/in
 
 ## 4. 測試你的動態網站
 
-打開瀏覽器，輸入你的主機網址再加上 `index.php`：
-- **ProFreeHost**：`https://你的帳號.profreehost.com/index.php`
-- **InfinityFree**：`https://你的帳號.infinityfreeapp.com/index.php`
+打開瀏覽器，輸入你註冊時選的網址再加上 `index.php`（例如 `https://你的帳號.infinityfreeapp.com/index.php`）
 
 - 看到「資料庫連線成功」+ 訪客計數器 → 全部搞定！
 - 如果出現錯誤訊息 → 把錯誤貼給 AI，請它幫你修正
