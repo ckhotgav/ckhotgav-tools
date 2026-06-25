@@ -49,7 +49,11 @@ antigravity.json
 .netlify/auth.json
 .netlify/state.json
 .vercel/auth.json
-.wrangler/auth.json
+
+# Cloudflare Wrangler (安全隔離防護)
+.wrangler/
+wrangler.toml
+wrangler.jsonc
 .gh-auth*
 *.auth
 *oauth*
