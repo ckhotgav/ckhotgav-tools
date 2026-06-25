@@ -36,9 +36,7 @@
 | **05** | Google Apps Script | 🟡 | 雲端自動化腳本 |
 | **06** | Supabase 資料庫 | 🟡 | 免費雲端資料庫 |
 | **07** | Firebase 資料庫 | 🟡 | Google 雲端資料庫 |
-| **08** | Ollama 本地AI | 🟡 | 在自己的電腦跑 AI |
-| **09** | Gemini 免費API | 🟡 | Google 免費 AI |
-| **10** | 生成圖片 | 🟢 | 讓 AI 幫你畫圖 |
+| **09** | 免費 AI API 串接 (Gemini/Groq) | 🟡 | Google 免費 AI |
 | **11** | Obsidian 知識管理系統 | 🟢 | 連接你的筆記本 |
 | **12** | 知識管理系統設定引導 | 🟢 | 學會整理知識 |
 | **13** | 專案助理 | 🟢 | 開工收工自動化 |
@@ -438,10 +436,6 @@ firebase login
 
 ---
 
-# 技能 08：Ollama 本地AI
-
-Ollama 讓你在自己的電腦上執行 AI 模型，完全免費、不需網路！
-
 ## 1. 安裝
 
 去 [https://ollama.com/download](https://ollama.com/download) 下載安裝。
@@ -492,10 +486,6 @@ npm install @google/generative-ai
 **✅ 完成！**
 
 ---
-
-# 技能 10：生成圖片
-
-讓 AI 幫你畫圖！
 
 ### 最簡單的方式
 直接對 AI 說：

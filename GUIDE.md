@@ -33,9 +33,7 @@
 | **05** | Google Apps Script | 雲端腳本部署與自動化 |
 | **06** | Supabase 資料庫 | 免費雲端資料庫串接 |
 | **07** | Firebase 資料庫 | Google 雲端資料庫串接 |
-| **08** | Ollama 本地AI | 在自己的電腦上跑 AI 模型 |
-| **09** | Gemini 免費API | Google 免費的 AI 能力 |
-| **10** | 生成圖片 (Draw) | 讓 AI 幫你畫圖 |
+| **09** | 免費 AI API 串接 (Gemini/Groq) | Google 免費的 AI 能力 |
 | **11** | Obsidian 知識管理系統 | 連接你的 Obsidian 筆記 |
 | **12** | 知識管理系統設定引導 | 學會怎麼整理你的知識 |
 | **13** | 專案助理 | 開工/收工/啟動專案 自動化流程 |
