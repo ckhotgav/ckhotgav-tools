@@ -38,12 +38,20 @@ description: 收工 — git push、記錄筆記、完整性檢查。觸發關鍵
 2. 執行 `git commit -m "收工：今日進度更新"`
 3. 執行 `git push`
 
+## 步驟四.五：雲端部署 (選用)
+
+主動詢問使用者是否需要部署至雲端：
+* **選項 1**：Netlify 一鍵部署 (netlify deploy --prod, 詳見技能 04)
+* **選項 2**：Cloudflare 60分鐘免登入臨時部署 (npx wrangler deploy --temporary, 詳見技能 18)
+* **選項 3**：Cloudflare 正常帳戶部署 (npx wrangler pages deploy, 詳見技能 18)
+
 ## 步驟五：完整性檢查
 
 檢查以下項目：
 - ✅ 所有檔案已儲存
 - ✅ 程式無明顯錯誤（若可以執行檢查指令則執行）
 - ✅ 已推送至 GitHub
+- ✅ 已視需要部署至雲端環境
 
 ## 步驟六：回報完成
 

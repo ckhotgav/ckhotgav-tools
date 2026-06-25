@@ -93,6 +93,11 @@ __pycache__/
 .venv/
 venv/
 ENV/
+
+# Cloudflare Wrangler
+.wrangler/
+wrangler.toml
+wrangler.jsonc
 ```
 
 ---
